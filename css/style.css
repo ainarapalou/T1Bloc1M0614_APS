@@ -9,3 +9,15 @@ main {
 footer {
     background-color: lightgray;
 }
+.aficio {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.aficio img {
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+}
